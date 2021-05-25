@@ -1,5 +1,5 @@
 h1 {
-  color: red;
+  color: #b9421d;
   text-align: center;
 }
 
@@ -8,10 +8,25 @@ p {
   font-style: normal;
   font-weight: bold;
   text-align: center;
+  color: #b6782d;
 }
 
 ul {
   font-size: 20px;
   line-height: 20px;
   text-align: center;
+  color: #4d4753;
 }
+
+img {
+  padding: 15px;
+  background: #e2e2e2;
+  border: #656656;
+  border-width: 10px;
+}
+
+/* #b9421d
+#b6782d
+#4d4753
+#656656
+#e2e2e2 */
